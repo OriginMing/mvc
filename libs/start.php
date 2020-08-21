@@ -58,6 +58,10 @@ define("IMG_ADD",STATIC_ADD."imgs".DIRECTORY_SEPARATOR);
 //font地址
 define("FONT_ADD",STATIC_ADD."font".DIRECTORY_SEPARATOR);
 
+
+
+define("FONT_PATH",APP_NAME."static/font/");
+
 //echo "<pre>";
 //var_dump(CSS_ADD);
 //var_dump($_SERVER);//当前程序运行所在的目录
